@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../Project/MonthShopping/DaoGenerator/DaoGenerator.iml" filepath="$PROJECT_DIR$/../../../Project/MonthShopping/DaoGenerator/DaoGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Project/MonthShopping/MShoppingDaoGenerator/MShoppingDaoGenerator.iml" filepath="$PROJECT_DIR$/../../../Project/MonthShopping/MShoppingDaoGenerator/MShoppingDaoGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mshopping.iml" filepath="$PROJECT_DIR$/mshopping.iml" />
+    </modules>
+  </component>
+</project>
+
