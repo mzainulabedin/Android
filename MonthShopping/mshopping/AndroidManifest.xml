@@ -19,4 +19,5 @@
         <activity android:name=".activity.CategoryAddActivity"/>
         <activity android:name=".activity.CategoryListActivity"/>
     </application>
+
 </manifest>
